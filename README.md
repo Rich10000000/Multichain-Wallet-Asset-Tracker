@@ -1,17 +1,15 @@
-# Multichain Asset Locator
+# Multichain Wallet Asset Tracker
 
-This skill retrieves wallet balances across multiple chains like Ethereum, BSC, and Polygon.
+This skill detects and displays crypto assets on multiple blockchains including:
+- Ethereum (ETH, USDT)
+- BSC (BNB, CAKE)
+- Polygon (MATIC, USDC)
+- Solana
 
 ## Features
-
-- Get wallet balances
-- Supports Ethereum, BSC, Polygon
-- Lightweight and fast
-
-## Usage
-
-No parameters required. Automatically fetches example balances.
+- Supports multiple chains
+- Simple and lightweight
+- Easily extendable
 
 ## Author
-
-YourName
+Submitted for the Crestal IntenKit program.
